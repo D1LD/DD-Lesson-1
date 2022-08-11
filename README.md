@@ -2,6 +2,8 @@
 This is to Demonstrate the UI for GitHub
 Apple Pay
 
+Apple Pay
+
 Apple Pay is a cardless payment method and competitors are 
 Traditional Bank 
 Other online payment provide 
@@ -17,3 +19,6 @@ Apple already have talent pool for new App R&D ,less cost than competitor
 But Public WIFI beings security issue
 Apple collects personal data
 
+
+Apple Company Information 
+Apple computer starts in 1987 April 1st and they was initially on define computer which was specialized in drawing and design and also bring new definition for phone,change people life style on communication and bring platform for other App development
